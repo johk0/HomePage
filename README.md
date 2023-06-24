@@ -1,2 +1,2 @@
-# HomePage
-Web Developer &amp; Designer | Graphic Designer
+# Demo
+https://johk0.github.io/Homepage/
