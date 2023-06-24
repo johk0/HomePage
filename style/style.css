@@ -128,6 +128,7 @@ section {
 	font-weight: 800;
 	margin-bottom: 30px;
 	letter-spacing: 1px;
+	text-transform: uppercase;
 }
 .content {
 	display: flex;
